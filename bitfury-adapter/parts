@@ -1,0 +1,59 @@
+Partlist
+
+Exported from bitfury_adapter-v1.4 (1).sch at 24/08/2013 1:40:20
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device                Package               Library      Sheet
+
+0V9      PIN_TEST_BIG   PIN_TEST_BIG          PAD_HOLE_BIG          00-own_parts 1
+C1AD     100N           CAP0402               CAP0402               00-own_parts 1
+C1BD     100N           CAP0402               CAP0402               00-own_parts 1
+C1CD     100N           CAP0402               CAP0402               00-own_parts 1
+C1DD     100N           CAP0402               CAP0402               00-own_parts 1
+C1ED     100N           CAP0402               CAP0402               00-own_parts 1
+C01      1U             CAP0603               CAP0603               00-own_parts 1
+C01B     22U            ECAP_SMA              ECAP_SMA              00-own_parts 1
+C02      10U            CAP0603               CAP0603               00-own_parts 1
+C02B     22U            ECAP_SMA              ECAP_SMA              00-own_parts 1
+C03B     22U            ECAP_SMA              ECAP_SMA              00-own_parts 1
+C10D     100N           CAP0402               CAP0402               00-own_parts 1
+C10R     100N           CAP0402               CAP0402               00-own_parts 1
+C11D     100N           CAP0402               CAP0402               00-own_parts 1
+C12D     100N           CAP0402               CAP0402               00-own_parts 1
+C13D     100N           CAP0402               CAP0402               00-own_parts 1
+C14D     100N           CAP0402               CAP0402               00-own_parts 1
+C15D     100N           CAP0402               CAP0402               00-own_parts 1
+C16D     100N           CAP0402               CAP0402               00-own_parts 1
+C17D     100N           CAP0402               CAP0402               00-own_parts 1
+C18D     100N           CAP0402               CAP0402               00-own_parts 1
+C19D     100N           CAP0402               CAP0402               00-own_parts 1
+CM+      PIN_TEST       PIN_TEST              PAD_HOLE_0.8MM        00-own_parts 1
+CM-      PIN_TEST       PIN_TEST              PAD_HOLE_0.8MM        00-own_parts 1
+CQM      PIN_TEST       PIN_TEST              PAD_HOLE_0.8MM        00-own_parts 1
+INCLK    PIN_TEST       PIN_TEST              PAD_HOLE_0.8MM        00-own_parts 1
+J10                     CON_MICROMATCH_6F-TOP CON_MICROMATCH_TOP_6F 00-own_parts 1
+OCLK     PIN_TEST       PIN_TEST              PAD_HOLE_0.8MM        00-own_parts 1
+OMISO    PIN_TEST       PIN_TEST              PAD_HOLE_0.8MM        00-own_parts 1
+OMOSI    PIN_TEST       PIN_TEST              PAD_HOLE_0.8MM        00-own_parts 1
+OSCK     PIN_TEST       PIN_TEST              PAD_HOLE_0.8MM        00-own_parts 1
+R10I     330R           RES0603               RES0603               00-own_parts 1
+R10R     1K             RES0402               RES0402               00-own_parts 1
+R11I     330R           RES0603               RES0603               00-own_parts 1
+R11R     1K             RES0402               RES0402               00-own_parts 1
+R12I     390R           RES0603               RES0603               00-own_parts 1
+R13I     390R           RES0603               RES0603               00-own_parts 1
+RG01     AP130-18SAG-7  AP130-18SAG-7         SOT23                 00-bitfury   1
+SJ1      SJ2SJ2-S       SJ2SJ2-S              SJ2-S                 00-own_parts 1
+SJ2      SJ2SJ2-S       SJ2SJ2-S              SJ2-S                 00-own_parts 1
+SJ3      SJ2SJ2-S       SJ2SJ2-S              SJ2-S                 00-own_parts 1
+SJ4      SJ2SJ2-S       SJ2SJ2-S              SJ2-S                 00-own_parts 1
+SJ10     SJ2SJ2-S       SJ2SJ2-S              SJ2-S                 00-own_parts 1
+U$83                    PIN_GND               PAD_HOLE_SQR_1.8MM    00-own_parts 1
+U10      BITFURY        BITFURY               QNF48                 00-bitfury   1
+U10B     FXLP34P5X      FXLP34P5X             SOT23-5               00-bitfury   1
+VDDIO    PIN_TEST       PIN_TEST              PAD_HOLE_0.8MM        00-own_parts 1
+Z10I     3V3            ZENER_SOD123          ZENER_SOD123          00-own_parts 1
+Z11I     3V3            ZENER_SOD123          ZENER_SOD123          00-own_parts 1
